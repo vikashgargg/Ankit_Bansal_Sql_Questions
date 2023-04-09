@@ -1,4 +1,4 @@
-Ready script:
+-- Ready script:
 create table hall_events
 (
 hall_id integer,
@@ -16,5 +16,5 @@ insert into hall_events values
 ,(3,'2022-12-01','2023-01-30');
 
 
-Solution:
+-- Solution:
 
